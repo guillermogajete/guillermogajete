@@ -1,10 +1,8 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚒𝚊𝚗𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+  <img src="https://github.com/user-attachments/assets/5cae5836-4253-4d38-b05e-07c943bc781e" alt="Guillermo Cañavate - Ciberseguridad y Sistemas" width="100%" />
 </div>
 
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Cybersecurity & Forensics" width="400"/>
-</div>
+<br>
 
 <div align="center">
   <br>
