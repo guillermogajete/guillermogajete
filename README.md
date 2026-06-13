@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5cae5836-4253-4d38-b05e-07c943bc781e" alt="Guillermo Cañavate - Ciberseguridad y Sistemas" width="100%" />
+  <img width="560" height="240" alt="Image" src="https://github.com/user-attachments/assets/756908aa-77a1-4b0a-abdf-6ceeeded352a" />
 </div>
 
 <br>
