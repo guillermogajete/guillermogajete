@@ -24,7 +24,7 @@
 
 Mi nombre es Guillermo y la informática siempre ha formado parte de mi vida, desde los tiempos del mítico Amstrad CPC 464 hasta las arquitecturas más modernas de la familia Windows. Son muchos años explorando este mundo, pero manteniéndome siempre en constante actualización, una exigencia innegociable en este sector.
 
-Hace unos 5 años decidí profesionalizar mi pasión a través de la educación reglada. Comencé con el Grado Medio de Sistemas Microinformáticos y Redes (SMR) y, posteriormente, di el salto al Grado Superior de Administración de Sistemas Informáticos en Red (ASIR). Durante ese tiempo me "picó el gusanillo" de la ciberseguridad, descubriendo mi vocación por la defensa y el peritaje. Esto me llevó a dar el paso definitivo: en 2026 finalicé mis estudios de especialización en **Ciberseguridad en Entornos de las Tecnologías de la Información**
+Hace unos 5 años decidí profesionalizar mi pasión a través de la educación reglada. Comencé con el Grado Medio de Sistemas Microinformáticos y Redes (SMR) y, posteriormente, di el salto al Grado Superior de Administración de Sistemas Informáticos en Red (ASIR). Durante ese tiempo me "picó el gusanillo" de la ciberseguridad, descubriendo mi vocación por la defensa y el peritaje. Esto me llevó a dar el paso definitivo: en 2026 finalicé mis estudios de especialización en **Ciberseguridad en Entornos de las Tecnologías de la Información**.
 
 ### Enfoque Actual
 
