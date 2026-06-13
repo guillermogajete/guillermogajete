@@ -6,29 +6,32 @@
 
 <div align="center">
   <br>
-  <b>Especialista en Ciberseguridad (Blue Team) & Digital Forensics | Técnico Superior ASIR/SMR</b> <br>
-  📍 Cartagena, Región de Murcia, España <br><br>
+  <b>Especialista en Ciberseguridad (Blue Team) & Digital Forensics | Técnico Superior en Sistemas en Red</b> <br>
+  Cartagena, Región de Murcia, España <br><br>
   Bienvenido a mi portfolio técnico. Aquí encontrarás automatizaciones, scripts y metodologías documentadas para el análisis forense, respuesta a incidentes y bastionado de sistemas. <br>
   Siéntete libre de explorar mis laboratorios y contactar conmigo. <br><br>
   
-  <a href="mailto:guillermogajete1987@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <!--[cite: 5] -->
-  <a href="https://www.linkedin.com/in/guillermo-cañavate-gajete" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <!--[cite: 5] -->
+  <a href="mailto:guillermogajete1987@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> 
+  <a href="https://www.linkedin.com/in/guillermo-cañavate-gajete" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 
-  <br><br>
-  <i>Stay Secure!</i> 🛡️
 </div>
 
 <br>
 
 ---
 
-### 🕵️‍♂️ Sobre Mí & Current Focus
+### Sobre Mí & Current Focus
 
-Soy un apasionado de la ciberseguridad defensiva, especializado en la recolección de evidencias, análisis de memoria y trazabilidad de incidentes.
+¡Saludos! Soy Guillermo. La informática siempre ha formado parte de mi vida, desde los tiempos del mítico Amstrad CPC 464 hasta las arquitecturas más modernas de la familia Windows. Son muchos años explorando este mundo, pero manteniéndome siempre en constante actualización, una exigencia innegociable en este sector.
 
-- 🔭 **Actualmente trabajando en:** Preparación para el Cuerpo de Técnicos Auxiliares de Informática (TAI) y certificaciones de redes (Cisco)[cite: 5].
-- 🌱 **Entrenando mis skills en:** Laboratorios de [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges) resolviendo retos de Blue Team[cite: 5].
-- 🎯 **Objetivo profesional:** Búsqueda activa de roles enfocados en **Blue Team** y peritaje en **Análisis Forense Informático**[cite: 5].
+Hace unos 5 años decidí profesionalizar mi pasión a través de la educación reglada. Comencé con el Grado Medio de Sistemas Microinformáticos y Redes (SMR)[cite: 1] y, posteriormente, di el salto al Grado Superior de Administración de Sistemas Informáticos en Red (ASIR)[cite: 3]. Durante ese tiempo me "picó el gusanillo" de la ciberseguridad, descubriendo mi vocación por la defensa y el peritaje. Esto me llevó a dar el paso definitivo: en 2026 finalicé mis estudios de especialización en **Ciberseguridad en Entornos de las Tecnologías de la Información**
+
+### 🎯 Current Focus
+
+- **Oposiciones:** Preparándome activamente para el Cuerpo de Técnicos Auxiliares de Informática (TAI)..
+- **Certificaciones:** Aumentando mis conocimientos técnicos enfocados en redes (Cisco), seguridad en entornos Microsoft (familia Security, Compliance, and Identity - SC) y profundizando en las soluciones de Qualys.
+- **Entrenamiento (Blue Team):** Resolviendo laboratorios y retos de defensa en [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges)[cite: 5].
+- **Objetivo profesional:** Incorporarme a un equipo de Operaciones de Seguridad **(SOC)** o participar en **proyectos técnicos de DFIR (Digital Forensics and Incident Response)**.
 
 ---
 
