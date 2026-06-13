@@ -20,45 +20,45 @@
 
 ---
 
-### Sobre Mí & Current Focus
+### Sobre Mí 
 
-¡Saludos! Soy Guillermo. La informática siempre ha formado parte de mi vida, desde los tiempos del mítico Amstrad CPC 464 hasta las arquitecturas más modernas de la familia Windows. Son muchos años explorando este mundo, pero manteniéndome siempre en constante actualización, una exigencia innegociable en este sector.
+Mi nombre es Guillermo y la informática siempre ha formado parte de mi vida, desde los tiempos del mítico Amstrad CPC 464 hasta las arquitecturas más modernas de la familia Windows. Son muchos años explorando este mundo, pero manteniéndome siempre en constante actualización, una exigencia innegociable en este sector.
 
 Hace unos 5 años decidí profesionalizar mi pasión a través de la educación reglada. Comencé con el Grado Medio de Sistemas Microinformáticos y Redes (SMR) y, posteriormente, di el salto al Grado Superior de Administración de Sistemas Informáticos en Red (ASIR). Durante ese tiempo me "picó el gusanillo" de la ciberseguridad, descubriendo mi vocación por la defensa y el peritaje. Esto me llevó a dar el paso definitivo: en 2026 finalicé mis estudios de especialización en **Ciberseguridad en Entornos de las Tecnologías de la Información**
 
-### 🎯 Current Focus
+### Enfoque Actual
 
-- **Oposiciones:** Preparándome activamente para el Cuerpo de Técnicos Auxiliares de Informática (TAI)..
+- **Oposiciones:** Preparándome activamente para el Cuerpo de Técnicos Auxiliares de Informática (TAI) a nivel estatal.
 - **Certificaciones:** Aumentando mis conocimientos técnicos enfocados en redes (Cisco), seguridad en entornos Microsoft (familia Security, Compliance, and Identity - SC) y profundizando en las soluciones de Qualys.
-- **Entrenamiento (Blue Team):** Resolviendo laboratorios y retos de defensa en [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges)[cite: 5].
+- **Entrenamiento (Blue Team):** Resolviendo laboratorios y retos de defensa en [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges).
 - **Objetivo profesional:** Incorporarme a un equipo de Operaciones de Seguridad **(SOC)** o participar en **proyectos técnicos de DFIR (Digital Forensics and Incident Response)**.
 
 ---
 
-### 🛠️ Arsenal Tecnológico y Herramientas Top
+### Arsenal Tecnológico y Herramientas Top
 
-Mi entorno de trabajo se basa en la automatización a través de scripting y el uso de herramientas líderes en el sector DFIR y sistemas[cite: 5]:
+Mi entorno de trabajo se basa en la automatización a través de scripting y el uso de herramientas líderes en el sector DFIR y sistemas:
 
 **Automatización y Scripting:**
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) <!--[cite: 5] -->
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) <!--[cite: 5] -->
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) 
 
 **Análisis Forense y Blue Team:**
-![Volatility 3](https://img.shields.io/badge/Volatility_3-4B275F?style=for-the-badge&logo=python&logoColor=white) <!--[cite: 6, 7] -->
-![Autopsy](https://img.shields.io/badge/Autopsy-005571?style=for-the-badge&logo=linux&logoColor=white) <!--[cite: 5, 7] -->
-![Zimmerman Tools](https://img.shields.io/badge/Zimmerman_Tools-2C3E50?style=for-the-badge) <!--[cite: 6, 7] -->
-![Sysinternals](https://img.shields.io/badge/Sysinternals-0078D6?style=for-the-badge&logo=windows&logoColor=white) <!--[cite: 6, 7] -->
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) <!--[cite: 6] -->
-![FTK Imager](https://img.shields.io/badge/FTK_Imager-B71C1C?style=for-the-badge&logo=windows&logoColor=white) <!--[cite: 7] -->
+![Volatility 3](https://img.shields.io/badge/Volatility_3-4B275F?style=for-the-badge&logo=python&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-005571?style=for-the-badge&logo=linux&logoColor=white) 
+![Zimmerman Tools](https://img.shields.io/badge/Zimmerman_Tools-2C3E50?style=for-the-badge) 
+![Sysinternals](https://img.shields.io/badge/Sysinternals-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-B71C1C?style=for-the-badge&logo=windows&logoColor=white) 
 
 **Sistemas y Redes:**
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) <!--[cite: 5, 7] -->
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <!--[cite: 7] -->
-![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows-11&logoColor=white) <!--[cite: 6] -->
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows-11&logoColor=white) 
 
 ---
 
-### 📂 Proyectos Estrella (Escaparate Técnico)
+### Proyectos Estrella (Escaparate Técnico)
 
 A continuación, destaco algunas de mis investigaciones y herramientas desarrolladas:
 
