@@ -43,18 +43,50 @@ Mi entorno de trabajo se basa en la automatización a través de scripting y el 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) 
 
-#### Análisis Forense y Blue Team
+#### Sistemas, Redes y Virtualización
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+
+#### Análisis Forense y Adquisición (DFIR)
 ![Volatility 3](https://img.shields.io/badge/Volatility_3-4B275F?style=for-the-badge&logo=python&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/Autopsy-005571?style=for-the-badge&logo=linux&logoColor=white) 
+![Dispositivos Apple](https://img.shields.io/badge/Dispositivos_Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
+![KAPE](https://img.shields.io/badge/KAPE-8B0000?style=for-the-badge)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-B71C1C?style=for-the-badge&logo=windows&logoColor=white) 
 ![Zimmerman Tools](https://img.shields.io/badge/Zimmerman_Tools-2C3E50?style=for-the-badge) 
 ![Sysinternals](https://img.shields.io/badge/Sysinternals-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+![NirSoft Tools](https://img.shields.io/badge/NirSoft_Tools-555555?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 
-![FTK Imager](https://img.shields.io/badge/FTK_Imager-B71C1C?style=for-the-badge&logo=windows&logoColor=white) 
 
-#### Sistemas y Redes
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows-11&logoColor=white)
+#### Respuesta a Incidentes y Threat Intelligence
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white)
+![TheHive](https://img.shields.io/badge/TheHive-F4A261?style=for-the-badge)
+![MISP](https://img.shields.io/badge/MISP-264653?style=for-the-badge)
+![Any.run](https://img.shields.io/badge/Any.run-00A6CE?style=for-the-badge)
+![MITRE AT&CK](https://img.shields.io/badge/MITRE_AT&CK-E74C3C?style=for-the-badge)
+![Shodan](https://img.shields.io/badge/Shodan-FF4500?style=for-the-badge)
+
+#### Hacking Ético (Red Team y Auditoría)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2196F3?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge)
+![DVWA](https://img.shields.io/badge/DVWA-8B0000?style=for-the-badge)
+![MobSF](https://img.shields.io/badge/MobSF-264653?style=for-the-badge)
+![JADX](https://img.shields.io/badge/JADX-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+#### Bastionado y Automatización
+![Nftables](https://img.shields.io/badge/Nftables-555555?style=for-the-badge)
+![UFW](https://img.shields.io/badge/UFW-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
