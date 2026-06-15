@@ -39,11 +39,11 @@ Hace unos 5 años decidí profesionalizar mi pasión a través de la educación 
 
 Mi entorno de trabajo se basa en la automatización a través de scripting y el uso de herramientas líderes en el sector DFIR y sistemas:
 
-**Automatización y Scripting:**
+#### Automatización y Scripting
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) 
 
-**Análisis Forense y Blue Team:**
+#### Análisis Forense y Blue Team
 ![Volatility 3](https://img.shields.io/badge/Volatility_3-4B275F?style=for-the-badge&logo=python&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/Autopsy-005571?style=for-the-badge&logo=linux&logoColor=white) 
 ![Zimmerman Tools](https://img.shields.io/badge/Zimmerman_Tools-2C3E50?style=for-the-badge) 
@@ -51,10 +51,10 @@ Mi entorno de trabajo se basa en la automatización a través de scripting y el 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![FTK Imager](https://img.shields.io/badge/FTK_Imager-B71C1C?style=for-the-badge&logo=windows&logoColor=white) 
 
-**Sistemas y Redes:**
+#### Sistemas y Redes
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows-11&logoColor=white) 
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows-11&logoColor=white)
 
 ---
 
