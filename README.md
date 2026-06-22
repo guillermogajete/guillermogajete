@@ -94,7 +94,7 @@ Mi entorno de trabajo se basa en la automatización a través de scripting y el 
 
 A continuación, destaco algunas de mis investigaciones y herramientas desarrolladas:
 
-#### 📱 [Análisis Forense Informático: Extracción de Datos iPad (iOS)](https://github.com/guillermogajete/enlace-al-repo)
+#### 📱 [Análisis Forense Informático: Extracción de Datos iPad (iOS)]([https://github.com/guillermogajete/enlace-al-repo](https://github.com/guillermogajete/ipad-forensic-case-study))
 - **Objetivo:** Extracción lógica, análisis de bases de datos SQLite y búsqueda de artefactos, comunicaciones y datos borrados en un iPad 14.4.
 - **Entorno:** iBackup Viewer, DB Browser for SQLite, ExifToolGui, Scripting para decodificación `NSKeyedArchiver`.
 - **Conclusiones:** Identificación de cuenta principal y sincronización iCloud. Análisis de estado de papelera (`ZTRASHEDSTATE`) demostrando la ausencia de borrado intencionado (anti-forense) de evidencias multimedia
