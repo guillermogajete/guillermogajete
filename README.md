@@ -94,17 +94,17 @@ Mi entorno de trabajo se basa en la automatización a través de scripting y el 
 
 A continuación, destaco algunas de mis investigaciones y herramientas desarrolladas:
 
-#### 📱 [Análisis Forense Informático: Extracción de Datos iPad (iOS)]([https://github.com/guillermogajete/enlace-al-repo](https://github.com/guillermogajete/ipad-forensic-case-study))
+#### [Análisis Forense Informático: Extracción de Datos iPad (iOS)](https://github.com/guillermogajete/ipad-forensic-case-study))
 - **Objetivo:** Extracción lógica, análisis de bases de datos SQLite y búsqueda de artefactos, comunicaciones y datos borrados en un iPad 14.4.
 - **Entorno:** iBackup Viewer, DB Browser for SQLite, ExifToolGui, Scripting para decodificación `NSKeyedArchiver`.
 - **Conclusiones:** Identificación de cuenta principal y sincronización iCloud. Análisis de estado de papelera (`ZTRASHEDSTATE`) demostrando la ausencia de borrado intencionado (anti-forense) de evidencias multimedia
 
-#### 🧠 [Análisis Forense de Volcado de Memoria RAM (Windows)](https://github.com/guillermogajete/enlace-al-repo)
+#### [Análisis Forense de Volcado de Memoria RAM (Windows)](https://github.com/guillermogajete/enlace-al-repo)
 - **Objetivo:** Automatización del análisis de un volcado `.dmp` para extraer procesos, conexiones de red, inyecciones de código y librerías.
 - **Entorno:** Volatility 3 orquestado con scripts interactivos en Batch y PowerShell.
 - **Conclusiones:** Detección de procesos ocultos/terminados (`psscan`), mapeo de conexiones activas y auditoría de DLLs en procesos legítimos (`explorer.exe`) logrando un análisis pericial trazable y cronometrado
 
-#### 🚑 [Kit Forense de Respuesta en Vivo para Windows 11](https://github.com/guillermogajete/enlace-al-repo)
+#### [Kit Forense de Respuesta en Vivo para Windows 11](https://github.com/guillermogajete/enlace-al-repo)
 - **Objetivo:** Herramienta portable de *First Responder* (USB_FORENSE) para extracción no invasiva de evidencias volátiles respetando el orden de volatilidad y la cadena de custodia (INCIBE)[cite: 6].
 - **Entorno:** Batch scripting, Comae Toolkit (DumpIt), MFTECmd, Autoruns.
 - **Conclusiones:** Extracción automatizada de más de 36 artefactos críticos (RAM, MFT con detección de ZoneId/ADS, Prefetch, Registro). Minimización de huella utilizando un entorno `System32` portable en modo solo lectura
