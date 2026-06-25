@@ -105,7 +105,7 @@ A continuación, destaco algunas de mis investigaciones y herramientas desarroll
 - **Conclusiones:** Detección de procesos ocultos/terminados (`psscan`), mapeo de conexiones activas y auditoría de DLLs en procesos legítimos (`explorer.exe`) logrando un análisis pericial trazable y cronometrado
 
 #### [Kit Forense de Respuesta en Vivo para Windows 11](https://github.com/guillermogajete/enlace-al-repo)
-- **Objetivo:** Herramienta portable de *First Responder* (USB_FORENSE) para extracción no invasiva de evidencias volátiles respetando el orden de volatilidad y la cadena de custodia (INCIBE)[cite: 6].
+- **Objetivo:** Herramienta portable de *First Responder* (USB_FORENSE) para extracción no invasiva de evidencias volátiles respetando el orden de volatilidad y la cadena de custodia (INCIBE).
 - **Entorno:** Batch scripting, Comae Toolkit (DumpIt), MFTECmd, Autoruns.
 - **Conclusiones:** Extracción automatizada de más de 36 artefactos críticos (RAM, MFT con detección de ZoneId/ADS, Prefetch, Registro). Minimización de huella utilizando un entorno `System32` portable en modo solo lectura
 
