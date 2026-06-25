@@ -99,7 +99,7 @@ A continuación, destaco algunas de mis investigaciones y herramientas desarroll
 - **Entorno:** iBackup Viewer, DB Browser for SQLite, ExifToolGui, Scripting para decodificación `NSKeyedArchiver`.
 - **Conclusiones:** Identificación de cuenta principal y sincronización iCloud. Análisis de estado de papelera (`ZTRASHEDSTATE`) demostrando la ausencia de borrado intencionado (anti-forense) de evidencias multimedia
 
-#### [Análisis Forense de Volcado de Memoria RAM (Windows)](https://github.com/guillermogajete/enlace-al-repo)
+#### [Análisis Forense de Volcado de Memoria RAM (Windows)](https://github.com/guillermogajete/ram-forensic-case-study))
 - **Objetivo:** Automatización del análisis de un volcado `.dmp` para extraer procesos, conexiones de red, inyecciones de código y librerías.
 - **Entorno:** Volatility 3 orquestado con scripts interactivos en Batch y PowerShell.
 - **Conclusiones:** Detección de procesos ocultos/terminados (`psscan`), mapeo de conexiones activas y auditoría de DLLs en procesos legítimos (`explorer.exe`) logrando un análisis pericial trazable y cronometrado
